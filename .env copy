@@ -1,0 +1,7 @@
+PORT = 
+
+MONGO_DB_URL = 
+
+JWT_SECRET_KEY = 
+
+GNEWS_API_KEY = 
